@@ -34,21 +34,21 @@ const SacredBlessing = () => {
           transition={{ duration: 1, delay: 0.3 }}
           viewport={{ once: true }}
         >
-          <p className="font-heading text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
-            ॥ ॐ स्वस्ति न इन्द्रो वृद्धश्रवाः ॥
-          </p>
-          <p className="font-heading mt-4 text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
-            ॐ स्वस्ति न इन्द्रो वृद्धश्रवाः
-          </p>
-           <p className="font-heading mt-4 text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
-            स्वस्ति नः पूषा विश्ववेदाः ।
-          </p>
-           <p className="font-heading mt-4 text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
-            स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः
-          </p>
-           <p className="font-heading mt-4 text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
-            स्वस्ति नो बृहस्पतिर्दधातु ॥
-          </p>
+       <p className="font-heading text-sm leading-relaxed text-foreground/75 md:text-base lg:text-lg">
+  ॥ ಓಂ ಸ್ವಸ್ತಿ ನ ಇಂದ್ರೋ ವೃದ್ಧಶ್ರವಾಃ ॥
+</p>
+<p className="font-heading mt-2 text-sm leading-relaxed text-foreground/75 md:text-base lg:text-lg">
+  ಸ್ವಸ್ತಿ ನಃ ಪೂಷಾ ವಿಶ್ವವೇದಾಃ ।
+</p>
+<p className="font-heading mt-2 text-sm leading-relaxed text-foreground/75 md:text-base lg:text-lg">
+  ಸ್ವಸ್ತಿ ನಸ್ತಾರ್ಕ್ಷ್ಯೋ ಅರಿಷ್ಟನೇಮಿಃ ।
+</p>
+<p className="font-heading mt-2 text-sm leading-relaxed text-foreground/75 md:text-base lg:text-lg">
+  ಸ್ವಸ್ತಿ ನೋ ಬೃಹಸ್ಪತಿರ್ದಧಾತು ॥
+</p>
+
+
+
         </motion.div>
 
         {/* Divider */}
