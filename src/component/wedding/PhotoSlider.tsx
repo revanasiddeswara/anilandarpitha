@@ -3,10 +3,12 @@ import { motion, AnimatePresence } from "framer-motion";
 import useEmblaCarousel from "embla-carousel-react";
 import couple1 from "../../assets/DSC_6952.jpg";
 import couple2 from "../../assets/DSC_7020.jpg.jpg";
-import couple3 from "../../assets/DSC_6824.jpg.jpeg";
-import couple4 from "../../assets/DSC_6901.jpg.jpeg";
-
-const images = [couple1, couple2, couple3, couple4];
+import couple3 from "../../assets/DSC_8257.jpg.jpeg";
+import couple4 from "../../assets/DSC_8270.jpg.jpeg";
+import couple5 from "../../assets/DSC_8369.jpg.jpeg";
+import couple6 from "../../assets/DSC_6901.jpg.jpeg";
+import couple7 from "../../assets/footer.jpeg";
+const images = [couple1, couple2, couple3, couple4,couple5,couple6,couple7];
 
 const PhotoSlider = () => {
   const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true });

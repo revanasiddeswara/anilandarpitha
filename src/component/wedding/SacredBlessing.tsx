@@ -46,9 +46,6 @@ const SacredBlessing = () => {
 <p className="font-heading mt-2 text-sm leading-relaxed text-foreground/75 md:text-base lg:text-lg">
   ಸ್ವಸ್ತಿ ನೋ ಬೃಹಸ್ಪತಿರ್ದಧಾತು ॥
 </p>
-
-
-
         </motion.div>
 
         {/* Divider */}

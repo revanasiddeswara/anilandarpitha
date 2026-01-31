@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroImage from "@/assets/footer.jpeg";
+import heroImage from "@/assets/DSC_8396.jpg.jpeg";
 
 const ClosingSection = () => {
   return (
