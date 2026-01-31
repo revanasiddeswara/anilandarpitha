@@ -35,10 +35,19 @@ const SacredBlessing = () => {
           viewport={{ once: true }}
         >
           <p className="font-heading text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
-            "May your union be blessed with love, joy, and prosperity.
+            ॥ ॐ स्वस्ति न इन्द्रो वृद्धश्रवाः ॥
           </p>
           <p className="font-heading mt-4 text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
-            May your hearts remain forever entwined in the sacred bond of marriage."
+            ॐ स्वस्ति न इन्द्रो वृद्धश्रवाः
+          </p>
+           <p className="font-heading mt-4 text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
+            स्वस्ति नः पूषा विश्ववेदाः ।
+          </p>
+           <p className="font-heading mt-4 text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
+            स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः
+          </p>
+           <p className="font-heading mt-4 text-xl leading-relaxed text-foreground/80 md:text-2xl lg:text-3xl">
+            स्वस्ति नो बृहस्पतिर्दधातु ॥
           </p>
         </motion.div>
 
