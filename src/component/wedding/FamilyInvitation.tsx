@@ -54,7 +54,7 @@ const FamilyInvitation = () => {
               Groom's Family
             </p>
             <p className="font-display text-2xl text-foreground md:text-3xl">
-              Mr. & Mrs. Baddni
+              Mr. & Mrs. Badni
             </p>
             <p className="font-body mt-2 text-foreground/60">
               Cordially invite you to the wedding of their son
